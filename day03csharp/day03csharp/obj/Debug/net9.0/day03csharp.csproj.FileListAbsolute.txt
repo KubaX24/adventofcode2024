@@ -1,0 +1,15 @@
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/bin/Debug/net9.0/day03csharp
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/bin/Debug/net9.0/day03csharp.deps.json
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/bin/Debug/net9.0/day03csharp.runtimeconfig.json
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/bin/Debug/net9.0/day03csharp.dll
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/bin/Debug/net9.0/day03csharp.pdb
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.AssemblyInfoInputs.cache
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.AssemblyInfo.cs
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.csproj.CoreCompileInputs.cache
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.sourcelink.json
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.dll
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/refint/day03csharp.dll
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.pdb
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/day03csharp.genruntimeconfig.cache
+/home/kubax/AdventOfCode2024/day03csharp/day03csharp/obj/Debug/net9.0/ref/day03csharp.dll
