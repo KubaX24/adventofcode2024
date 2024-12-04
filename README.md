@@ -1,2 +1,4 @@
 # adventofcode2024
-# adventofcode2024
+## Days languages
+1. C
+2. Kotlin
